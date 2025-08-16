@@ -1,26 +1,37 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
+![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-2.gif)
 <div align="center">
-  <img height="896" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh0dnY1Z2plcXp2anY5MDM5Y2xncWttanFmcnBmcm1qcWIxeDcyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GazCZqvW67VPN5SEd/giphy.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBkczJzcTJjdXJueG5nMnpna3lwMnplN2Z1ODBjZm83OHpjMXEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif"  />
 </div>
 
 ###
 
-<p align="left">I'm Akshay, a passionate Front-end Developer from India.</p>
+<div align="center">
+  <a href="akshaygawde10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BuLLeT29 .BuLLeT29 &"  />
+</div>
 
 ###
 
-<p align="left">I'm passionate about solving complex problems. I thrive on finding ways to automate and optimize systems, always with a focus on creating secure and efficient solutions.</p>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Akshay, a passionate Front-end Developer from India.<br><br>I'm passionate about solving complex problems. I thrive on finding ways to automate and optimize systems, always with a focus on creating secure and efficient solutions.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -34,22 +45,12 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BuLLeT29 .BuLLeT29 &"  />
+  <img src="https://streak-stats.demolab.com?user=BuLLeT29 &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
